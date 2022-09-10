@@ -1,0 +1,23 @@
+x = 1;
+1
+y = 1;
+1
+x + y;
+2
+x = 1000;
+1000
+x + y;
+1001
+1 = 2;
+VM181:1 Uncaught SyntaxError: Invalid left-hand side in assignment
+alert("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a elit nec mi lobortis placerat. Pellentesque tempus erat ante, eget nsw volutpat eros euismod a. Vivamus rhoncus in velit porttitor molestie. Aliquam mollis lorem dui, ut vestibulum ipsum tristique a. Morbi ultrices elit malesuada, consectetur quam sed, tempus quam. Donec pellentesque enim venenatis semper varius. Orci nsw varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi facilisis tincidunt arcu at tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tristique sagittis nsw dolor, a hendrerit dolor luctus ut.")
+undefined
+name = 'nsw';
+alert("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a elit nec mi lobortis placerat. Pellentesque tempus erat ante, eget "+name+" volutpat eros euismod a. Vivamus rhoncus in velit porttitor molestie. Aliquam mollis lorem dui, ut vestibulum ipsum tristique a. Morbi ultrices elit malesuada, consectetur quam sed, tempus quam. Donec pellentesque enim venenatis semper varius. Orci "+name+" varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi facilisis tincidunt arcu at tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tristique sagittis "+name+" dolor, a hendrerit dolor luctus ut.");
+undefined
+name = 'leezche';
+alert("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a elit nec mi lobortis placerat. Pellentesque tempus erat ante, eget "+name+" volutpat eros euismod a. Vivamus rhoncus in velit porttitor molestie. Aliquam mollis lorem dui, ut vestibulum ipsum tristique a. Morbi ultrices elit malesuada, consectetur quam sed, tempus quam. Donec pellentesque enim venenatis semper varius. Orci "+name+" varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi facilisis tincidunt arcu at tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tristique sagittis "+name+" dolor, a hendrerit dolor luctus ut.");
+undefined
+var name = 'leezche';
+alert("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a elit nec mi lobortis placerat. Pellentesque tempus erat ante, eget "+name+" volutpat eros euismod a. Vivamus rhoncus in velit porttitor molestie. Aliquam mollis lorem dui, ut vestibulum ipsum tristique a. Morbi ultrices elit malesuada, consectetur quam sed, tempus quam. Donec pellentesque enim venenatis semper varius. Orci "+name+" varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi facilisis tincidunt arcu at tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tristique sagittis "+name+" dolor, a hendrerit dolor luctus ut.");
+undefined
